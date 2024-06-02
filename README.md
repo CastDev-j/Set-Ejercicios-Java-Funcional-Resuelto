@@ -46,7 +46,7 @@ Este repositorio contiene **14 ejercicios resueltos** diseñados como introducci
 
 ## 📧 Contacto
 
-Si tienes alguna pregunta o sugerencia, puedes contactarme a través de [mi email] o abrir un issue en el repositorio.
+Si tienes alguna pregunta o sugerencia, puedes contactarme a través de andres2004_cj@outlook.com o abrir un issue en el repositorio.
 
 ---
 
