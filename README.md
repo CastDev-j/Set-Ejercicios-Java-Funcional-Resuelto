@@ -38,7 +38,7 @@ Este repositorio contiene **14 ejercicios resueltos** diseñados como introducci
 
 1. **Clona el repositorio:**
    ```sh
-   git clone https://github.com/tu-usuario/tu-repositorio.git
+   git clone [https://github.com/cAndresDev/EjerciciosJavaFuncional]
    ```
 
 2. **Navega al directorio del proyecto:**
