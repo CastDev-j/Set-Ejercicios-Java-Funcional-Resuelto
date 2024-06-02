@@ -1,18 +1,19 @@
-Claro, aquí tienes el README con los formatos y errores ortográficos corregidos:
 
 ---
 
-# Set 01 - Programación Funcional en Java
+<p align="center">
+  <h1>Set 01 - Programación Funcional en Java 🐱</h1>
+</p>
 
 ¡Bienvenidos al primer set de ejercicios de programación funcional en Java! 🚀
 
-## Descripción
+## 🌟 Descripción
 
 Este repositorio contiene **14 ejercicios resueltos** diseñados como introducción al mundo de la programación funcional con Java.
 
 **Importante:** Asegúrate de resolver todos los ejercicios de este set antes de continuar.
 
-## Ejercicios
+## 📝 Ejercicios
 
 1. **Ejercicio 01:** Dado el arreglo de números, filtrar sólo los números pares.
 2. **Ejercicio 02:** Dado el arreglo de números, calcular la suma de todos los elementos. Posteriormente, también buscar la suma de solo los elementos pares.
@@ -34,35 +35,23 @@ Este repositorio contiene **14 ejercicios resueltos** diseñados como introducci
     4. El promedio
     5. El producto.
 
-## Instrucciones
-
-1. **Clona el repositorio:**
-   ```sh
-   git clone [https://github.com/cAndresDev/EjerciciosJavaFuncional]
-   ```
-
-2. **Navega al directorio del proyecto:**
-   ```sh
-   cd tu-repositorio
-   ```
-
-3. **Abre cada ejercicio y resuélvelo siguiendo las instrucciones específicas de cada uno.
-
-## Requisitos
+## 📋 Requisitos
 
 - Java 8 o superior
 - Un IDE o editor de texto que soporte Java (Eclipse, IntelliJ IDEA, VSCode, etc.)
 
-## Contribuciones
+## 🤝 Contribuciones
 
 ¡Las contribuciones son bienvenidas! Si tienes mejoras o correcciones, no dudes en hacer un fork del repositorio y enviar un pull request.
 
-## Contacto
+## 📧 Contacto
 
 Si tienes alguna pregunta o sugerencia, puedes contactarme a través de [mi email] o abrir un issue en el repositorio.
 
 ---
 
-¡Buena suerte y feliz codificación! 🌟
+<p align="center">
+  ¡Buena suerte y feliz codificación! 🌟
+</p>
 
 ---
